@@ -1,0 +1,3 @@
+[submodule "csharp-sdk"]
+	path = csharp-sdk
+	url = git@github.com:optimizely/csharp-sdk.git
